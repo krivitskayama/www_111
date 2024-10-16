@@ -69,7 +69,7 @@ text-align: center;
     color:white;
 }
 body{
-    background-image: url("/img/Image.png");
+    background-image: url("Image.png");
     background-repeat: no-repeat;
     width: 1800px;
     height: 904px;
